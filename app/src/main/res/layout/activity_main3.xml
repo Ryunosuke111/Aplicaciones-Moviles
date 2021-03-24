@@ -20,4 +20,10 @@
             android:textSize="20dp"
 
             />
+    <Button
+            android:id="@+id/bt6"
+            android:onClick="volver"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="volver1"/>
 </LinearLayout>
